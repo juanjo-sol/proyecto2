@@ -1,0 +1,15 @@
+div{
+    width:500px;
+    height: 250;
+    background-color: #b69f9f;
+    color: blue;
+    margin: 10 px;
+    padding: 20px 40px 30px 20px;
+    border: 1px solid #944141;
+    border-radius: 25px 0px 25px 0px;
+    box-shadow: 3px 3px 5px #332222;
+}
+centro{
+    background-color: #944141;
+
+}
